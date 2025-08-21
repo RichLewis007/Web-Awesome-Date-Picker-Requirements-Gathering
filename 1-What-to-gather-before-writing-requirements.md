@@ -10,19 +10,19 @@ As stakeholders of Web Awesome, let's work on answering these questions up front
  ☐ **Multiple discrete dates** (optional) - select several non-contiguous days (exceptions, blackout dates).\
  ☐ **Date-time composition** (optional) - compose with a time picker; unified commit semantics.\
  ☐ **Mobile/touch-first mode** - full-screen or bottom-sheet presentation optimized for touch.\
- ☐ **Accessibility-first workflows** - keyboard-only and screen-reader for high-compliance contexts.\
+ ☐ **Accessibility-first workflows** - keyboard-only and screen-reader for high-compliance contexts.
 
 * **Interaction model(s) needed**:\
   ☐ text input with popup\
   ☐ inline calendar\
   ☐ modal dialog\
   ☐ mobile full-screen\
-  ☐ all of the above\
+  ☐ all of the above
 
 * **Granularity**:\
   ☐ date only\
   ☐ date-range\
-  ☐ date-time (and whether time belongs in a separate component that can compose with the calendar)\
+  ☐ date-time (and whether time belongs in a separate component that can compose with the calendar)
 
 * **Internationalization**:\
   ☐ locales\
@@ -30,28 +30,28 @@ As stakeholders of Web Awesome, let's work on answering these questions up front
   ☐ week numbers\
   ☐ 12/24h preferences\
   ☐ RTL\
-  ☐ which calendars (Gregorian only for v1?)\
+  ☐ which calendars (Gregorian only for v1?)
 
 * **Validation**:\
   ☐ min/max\
   ☐ disabled rules (weekends/holidays/functions)\
   ☐ required\
   ☐ parsing/formatting rules\
-  ☐ free-typing policy\
+  ☐ free-typing policy
 
 * **Performance constraints**:\
   ☐ must work smoothly in forms with 100+ instances?\
   ☐ SSR (Server Side Rendering)? (being SSR-safe and progressively enhanced. Don’t break when users do SSR/SSG and degrade gracefully before JS loads)\
-  ☐ Shadow DOM constraints?\
+  ☐ Shadow DOM constraints?
 
 * **Design tokens & theming**:\
   ☐ which tokens (radius, spacing, color roles, focus rings) must be consumable\
   ☐ dark mode\
-  ☐ high-contrast mode\
+  ☐ high-contrast mode
 
 * **Accessibility bar (W3C)**:\
   ☐ Target WCAG 2.1 AA\
-  ☐ follow APG patterns (dialog + grid or combobox pattern)\
+  ☐ follow APG patterns (dialog + grid or combobox pattern)
 
 * **API shape**:\
   ☐ properties\
@@ -59,7 +59,7 @@ As stakeholders of Web Awesome, let's work on answering these questions up front
   ☐ slots/parts\
   ☐ controlled vs uncontrolled value\
   ☐ formatting hooks\
-  ☐ keyboard map\
+  ☐ keyboard map
 
 * **Ecosystem fit**:\
   ☐ compose with Web Awesome inputs\
@@ -67,11 +67,10 @@ As stakeholders of Web Awesome, let's work on answering these questions up front
   ☐ buttons\
   ☐ icons\
   ☐ form field\
-  ☐ localization service\
+  ☐ localization service
 
 * **Testing matrix**:\
   ☐ keyboard/screen reader (NVDA, JAWS, VoiceOver)\
   ☐ RTL\
   ☐ mobile (iOS/Android)\
-  ☐ high-contrast\
-
+  ☐ high-contrast
