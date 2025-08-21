@@ -1,10 +1,18 @@
-# Web Awesome Date Picker Requirements Gathering
+# Web Awesome date picker requirements gathering
 
-My writeup of guidance for Web Awesome OSS community and devs for date picker component requirements.
+My writeup of guidance for the [Web Awesome](https://github.com/shoelace-style/webawesome) [OSS](https://en.wikipedia.org/wiki/Open-source_software) community and devs for writing the requirements for the date picker component.
 
-This is being discussed here: [discussion for feature suggestions and planning](https://github.com/shoelace-style/webawesome/discussions/935)
+> <sup>**What Is Web Awesome?**\
+ **A major open‑source library**: Web Awesome bills itself as "the biggest open‑source library of meticulously designed, highly customizable, and framework‑agnostic UI components."</sup>\
+> <sup>**Framework‑agnostic**: You can drop these components into plain HTML pages or integrate them seamlessly into frameworks like React, Vue, or Angular.</sup>\
+> <sup>**Built on modern standards**: The components are built with [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) and [LitElement](https://lit.dev/docs/), ensuring they're native, modular, and performant.</sup>\
+> <sup>**Accessibility and customization**: Designed to be accessible, fully themeable, and easily tuned to match your brand or style preferences.</sup>\
+> <sup>Read more about Web Awesome here: [WebAwesome.com](https://webawesome.com/)</sup>
 
-The issue tracking for upcoming work is located here: https://github.com/shoelace-style/webawesome/issues/1075
+
+The date picker development is being discussed here: [discussion for feature suggestions and planning](https://github.com/shoelace-style/webawesome/discussions/935)
+
+The issue tracking for upcoming work on Web Awesome components is located here: https://github.com/shoelace-style/webawesome/issues/1075
 
 ---
 
