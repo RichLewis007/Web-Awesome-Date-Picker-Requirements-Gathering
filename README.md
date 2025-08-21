@@ -5,7 +5,7 @@ My writeup of guidance for the [Web Awesome](https://github.com/shoelace-style/w
 > <sup>**What Is Web Awesome?**\
  **A major open‑source library**: Web Awesome bills itself as "the biggest open‑source library of meticulously designed, highly customizable, and framework‑agnostic UI components."</sup>\
 > <sup>**Framework‑agnostic**: You can drop these components into plain HTML pages or integrate them seamlessly into frameworks like React, Vue, or Angular.</sup>\
-> <sup>**Built on modern standards**: The components are built with [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) and [LitElement](https://lit.dev/docs/), ensuring they're native, modular, and performant.</sup>\
+> <sup>**Built on modern standards**: The components are built with [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) and Google's [LitElement](https://lit.dev/docs/), ensuring they're native, modular, and performant.</sup>\
 > <sup>**Accessibility and customization**: Designed to be accessible, fully themeable, and easily tuned to match your brand or style preferences.</sup>\
 > <sup>Read more about Web Awesome here: [WebAwesome.com](https://webawesome.com/)</sup>
 
