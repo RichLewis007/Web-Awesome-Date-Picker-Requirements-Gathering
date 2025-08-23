@@ -1,5 +1,7 @@
 # Web Awesome date picker requirements gathering
 
+![Web Awesome Requirements Gathering](assets/web-awesome-reqs-gathering-1024-v2.png)
+
 My writeup of guidance for the [Web Awesome](https://github.com/shoelace-style/webawesome) [OSS](https://en.wikipedia.org/wiki/Open-source_software) community and devs for writing the requirements for the date picker component.
 
 > <sup>**What Is Web Awesome?**\
