@@ -2,7 +2,7 @@
 
 # Web Awesome date picker requirements gathering
 
-My writeup of guidance for the [Web Awesome](https://github.com/shoelace-style/webawesome) [OSS](https://en.wikipedia.org/wiki/Open-source_software) community and devs for writing the requirements for the date picker component.
+My write up of guidance for the [Web Awesome](https://github.com/shoelace-style/webawesome) [OSS](https://en.wikipedia.org/wiki/Open-source_software) community and devs for writing the requirements for the date picker component.
 
 > <sup>**What Is Web Awesome?**\
  **A major open‑source library**: Web Awesome bills itself as "the biggest open‑source library of meticulously designed, highly customizable, and framework‑agnostic UI components."</sup>\
